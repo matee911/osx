@@ -8,3 +8,4 @@ brew doctor
 brew install git
 brew install bash-completion
 brew install zsh-completions
+brew install ack
