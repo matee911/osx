@@ -1,4 +1,12 @@
 # Inspired by https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+# https://gist.github.com/tonycoco/5678609
+# https://gist.github.com/erikh/2260182
+
+#
+# System wide
+#
+# Enabling full keyboard access for all controls...
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 #
 # Tune Dock
